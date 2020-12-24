@@ -4,10 +4,10 @@ date: 2019-04-13
 published: true
 tags: [dataviz, hvplot]
 excerpt: "Embedding interactive Folium charts on static pages using Jekyll."
-hvplot-loader:
+hv-loader:
   hvplot-1: ["charts/parking_map.html", "500"] # second argument is the height
   hvplot-2: ["charts/heatmapByHour.html", "300"] # second argument is the height
-
+  hvplot-3: ["charts/heatmapByWeekday.html", "300"] # second argument is the height
 toc: true
 toc_sticky: true
 ---
@@ -27,3 +27,6 @@ The parking pattern in time can been seen in the heatmap below.
 
 This shows the parking occupancy by hour of a sample in San Francisco.
 
+<div id="hvplot-3"></div>
+
+This shows the parking occupancy by weekday of a sample in San Francisco.
