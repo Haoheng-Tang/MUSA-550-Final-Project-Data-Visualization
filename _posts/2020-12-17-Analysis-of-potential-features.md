@@ -1,26 +1,32 @@
 ---
-title: "Example: Embedding Folium chartsss"
-date: 2019-04-13
+title: "Analysis of potential features"
+date: 2020-12-17
 published: true
-tags: [dataviz, folium]
+tags: [dataviz, hv-chart]
 excerpt: "Embedding interactive Folium charts on static pages using Jekyll."
-folium-loader:
-  folium-chart-1: ["charts/foliumChart.html", "400"] # second argument is the height
-  folium-chart-2: ["charts/percent_no_internet.html", "400"] # second argument is the height
+hv-loader:
+  hv-chart-1: ["charts/demodata.html", "900"] # second argument is the height
 toc: true
 toc_sticky: true
 ---
 
-This post will show examples of embedding interactive maps produced using [Folium](https://github.com/python-visualization/folium).
+This post will show analysis of potential features for parking occupancy prediction.
 
-## OSMnx and Street Networks
+## Street tree
 
-The shortest route between the Art Museum and the Liberty Bell:
+The parking pattern in space can been seen in the interactive map below.
 
-<div id="folium-chart-1"></div>
+![An interactive map of street trees in SF]({{site.url}}{{site.baseurl}}/assets/images/hvplot-street-tree.png)
 
-## Percentage of Households without Internet
+## Demographics
 
-<div id="folium-chart-2"></div>
+The demographic pattern in space can been seen in the choropleth map below.
 
-See the [lecture 9B slides](https://musa-550-fall-2020.github.io/slides/lecture-9B.html) and the [lecture 10A slides](https://musa-550-fall-2020.github.io/slides/lecture-10A.html) for the code that produced these plots.
+<div id="hv-chart-1"></div>
+
+
+## 311 Requests
+
+The distribution of 311 requests can been seen in the map below.
+
+![A map of 311 requests in SF]({{site.url}}{{site.baseurl}}/assets/images/311hexmap.png)
