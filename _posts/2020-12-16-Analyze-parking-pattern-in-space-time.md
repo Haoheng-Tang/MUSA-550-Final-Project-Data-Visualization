@@ -2,12 +2,12 @@
 title: "Analysis of parking pattern in space and time"
 date: 2019-04-13
 published: true
-tags: [dataviz, folium]
+tags: [dataviz, hvplot]
 excerpt: "Embedding interactive Folium charts on static pages using Jekyll."
-folium-loader:
-  hvplot-1: ["parking_map.html", "500"] # second argument is the height
-  hvplot-2: ["heatmapByHour.html", "300"] # second argument is the height
-  hvplot-3: ["heatmapByWeekday.html", "300"] # second argument is the height
+hvplot-loader:
+  hvplot-1: ["charts/parking_map.html", "500"] # second argument is the height
+  hvplot-2: ["charts/heatmapByHour.html", "300"] # second argument is the height
+  hvplot-3: ["charts/heatmapByWeekday.html", "300"] # second argument is the height
 toc: true
 toc_sticky: true
 ---
@@ -27,6 +27,6 @@ The parking pattern in time can been seen in the heatmap below.
 
 This shows the parking occupancy by hour of a sample in San Francisco.
 
-<div id="hvplot-2"></div>
+<div id="hvplot-3"></div>
 
 This shows the parking occupancy by weekday of a sample in San Francisco.
