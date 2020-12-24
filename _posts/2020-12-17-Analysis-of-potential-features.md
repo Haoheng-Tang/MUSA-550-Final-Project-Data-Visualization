@@ -3,14 +3,14 @@ title: "Analysis of potential features"
 date: 2020-12-17
 published: true
 tags: [dataviz, hv-chart]
-excerpt: "Embedding interactive Folium charts on static pages using Jekyll."
+excerpt: "This post will show analysis of potential features for parking occupancy prediction."
 hv-loader:
   hv-chart-1: ["charts/demodata.html", "900"] # second argument is the height
 toc: true
 toc_sticky: true
 ---
 
-This post will show analysis of potential features for parking occupancy prediction.
+This post shows analysis of potential features for parking occupancy prediction.
 
 ## Street tree
 

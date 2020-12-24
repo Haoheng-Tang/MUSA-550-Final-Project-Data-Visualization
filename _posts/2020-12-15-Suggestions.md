@@ -3,7 +3,7 @@ title: "Suggestions"
 date: 2020-12-15
 published: true
 tags: [dataviz, hv-chart]
-excerpt: "Embedding interactive hvplot charts on static pages using Jekyll."
+excerpt: "This post will give suggestions on reusing vacant parking spaces"
 hv-loader:
   hv-chart-1: ["charts/mobileFoodHeatMap.html", "600"] # second argument is the height
   hv-chart-2: ["charts/parkingHeatMap.html", "600"] # second argument is the height
