@@ -5,9 +5,9 @@ published: true
 tags: [dataviz, hv-chart]
 excerpt: "Embedding interactive Folium charts on static pages using Jekyll."
 hv-loader:
-  hv-chart-1: ["charts/parking_map.html", "900"] # second argument is the height
-  hv-chart-2: ["charts/heatmapByHour.html", "600"] # second argument is the height
-  hv-chart-3: ["charts/heatmapByWeekday.html", "600"] # second argument is the height
+  hv-chart-1: ["charts/parking_map.html", "500"] # second argument is the height
+  hv-chart-2: ["charts/heatmapByHour.html", "300"] # second argument is the height
+  hv-chart-3: ["charts/heatmapByWeekday.html", "300"] # second argument is the height
 toc: true
 toc_sticky: true
 ---
