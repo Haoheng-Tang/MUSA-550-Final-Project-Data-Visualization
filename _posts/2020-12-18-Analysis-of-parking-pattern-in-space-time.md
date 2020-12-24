@@ -5,7 +5,7 @@ published: true
 tags: [dataviz, hv-chart]
 excerpt: This post will show analysis of parking pattern (San Francisco) in space and time."
 hv-loader:
-  hv-chart-1: ["charts/parking_map.html", "900"] # second argument is the height
+  hv-chart-1: ["charts/parking_map.html", "700"] # second argument is the height
   hv-chart-2: ["charts/heatmapByHour.html", "700"] # second argument is the height
   hv-chart-3: ["charts/heatmapByWeekday.html", "700"] # second argument is the height
 toc: false
