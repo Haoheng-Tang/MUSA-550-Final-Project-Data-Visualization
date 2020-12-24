@@ -17,10 +17,10 @@ San Francisco open parking data (schedule) contains more than 106 million rows a
 
 Data downloaded from:
 
-[San Francisco open parking data (schedule)]: https://data.sfgov.org/Transportation/SFMTA-Parking-Meter-Detailed-Revenue-Transactions/imvp-dq3v
+https://data.sfgov.org/Transportation/SFMTA-Parking-Meter-Detailed-Revenue-Transactions/imvp-dq3v
 
-[San Francisco open parking data (locaiton)]: https://data.sfgov.org/Transportation/Parking-Meters/8vzz-qzz9
+https://data.sfgov.org/Transportation/Parking-Meters/8vzz-qzz9
 
-[San Francisco open data--mobile food schedule]: https://data.sfgov.org/City-Infrastructure/311-Cases/vw6y-z8j6
+https://data.sfgov.org/City-Infrastructure/311-Cases/vw6y-z8j6
 
 Census tract data
