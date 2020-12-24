@@ -1,5 +1,5 @@
 ---
-title: "Example: Embedding Folium chartsss"
+title: "Analysis of parking pattern in space and time"
 date: 2019-04-13
 published: true
 tags: [dataviz, folium]
