@@ -7,6 +7,8 @@ tags:
   - Github Page
   - update
 ---
+The project makes an analysis on parking occupancy in San Francisco.
+
 
 Parking vacancy is an issue to discuss both in the U.S. and China. Some parking spaces are vacant because the demand of parking at their locations is lower than supply. Others are vacant at specific time every day or every week, which is a kind of underutilization. Those vacant parking spaces neither create much revenue itself, nor increase the land value around. They also occupy the lands which could become green spaces or be used for other facilities.
 
