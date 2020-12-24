@@ -9,8 +9,8 @@ hv-loader:
   hv-chart-2: ["charts/parkingHeatMap.html", "600"] # second argument is the height
   hv-chart-3: ["charts/mobileFoodStartTime.html", "600"] # second argument is the height
   hv-chart-4: ["charts/mobileFoodEndTime.html", "600"] # second argument is the height
-toc: true
-toc_sticky: true
+toc: false
+toc_sticky: false
 ---
 
 Based on the analysis and algorithm above, suggestions will be given. The model will have both private and public use cases. To individuals, the model predict the possible parking occupancy in the future, so that they can find somewhere easy to park in advanced. To government, the model predict possible vacancy rate or parking in the future, so that they can make use of the vacant parking spaces, changing them into green spaces or take advantage of them through time sharing ways. Mobile food data will be used for analysis. Mobile food service, most of which uses cars to sell food, is strongly related to parking lots because parking lots provide spaces for cars. Those mobile food service can take advantage of the vacant parking spaces at specific time a day.

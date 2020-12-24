@@ -3,16 +3,16 @@ title: "Analysis of parking pattern in space and time"
 date: 2020-12-16
 published: true
 tags: [dataviz, hv-chart]
-excerpt: "Embedding interactive Folium charts on static pages using Jekyll."
+excerpt: This post will show analysis of parking pattern (San Francisco) in space and time."
 hv-loader:
   hv-chart-1: ["charts/parking_map.html", "1000"] # second argument is the height
   hv-chart-2: ["charts/heatmapByHour.html", "1000"] # second argument is the height
   hv-chart-3: ["charts/heatmapByWeekday.html", "1000"] # second argument is the height
-toc: true
-toc_sticky: true
+toc: false
+toc_sticky: false
 ---
 
-This post will show analysis of parking pattern (San Francisco) in space and time. 
+This post shows analysis of parking pattern (San Francisco) in space and time. 
 
 ## Analysis in space
 
